@@ -8,5 +8,5 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.9.16
-      - key: MTQyNzk3MDg5MzEzNjUzMTUxNw.G_FD-x.dB9N5lNjjCgRKqRUL77dpdNF10vTtbvyNdSl14
+      - key: DISCORD_TOKEN
         sync: false
