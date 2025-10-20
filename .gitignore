@@ -1,0 +1,21 @@
+# Fichiers d'environnement
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+logs/
+
+# Environnements virtuels
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Autres
+.DS_Store
